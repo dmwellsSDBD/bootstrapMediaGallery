@@ -1,1 +1,1 @@
-# bootstrapMediaGallery
+# bootstrapGallery
